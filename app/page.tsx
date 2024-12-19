@@ -3,7 +3,7 @@ import Header from '../components/Header'
 import Hero from '../components/Hero'
 function page() {
   return (
-    <div className=''>
+    <div className='bg-customBlue5'>
       <Header />
       <Hero />
     </div>
