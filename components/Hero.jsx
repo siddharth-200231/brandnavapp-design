@@ -34,7 +34,7 @@ const Hero = () => {
           placeholder="Enter your work email"
           className="w-full md:w-96 h-12 rounded-lg px-4 py-2 text-customGray border border-customBlue shadow-xl" 
         />
-        <button className="w-full md:w-auto bg-customBlue text-customWhite px-8 py-3 rounded-lg text-lg">
+        <button className="w-full md:w-auto bg-customBlue text-customWhite px-8 py-3 rounded-lg text-lg shadow-[0_4px_4px_rgba(0,0,0,0.25)]">
           Grab free leads
         </button>
       </div>

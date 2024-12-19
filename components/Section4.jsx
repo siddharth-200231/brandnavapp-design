@@ -2,7 +2,7 @@ import React from "react";
 
 const Section4 = () => {
   return (
-    <div className="flex flex-col justify-center items-center w-full px-4 md:w-3/4 mx-auto gap-6 md:gap-8 mt-10 ">
+    <div className="flex flex-col justify-center items-center w-full px-4 md:w-3/4 mx-auto gap-6 md:gap-8 mt-10 mb-10">
       <div className="md:text-center text-start mb-2 md:mb-4 max-w-[800px]">
         <h1 className="font-bold text-[#2F327D] text-xl md:text-3xl font-poppins leading-normal tracking-[0.02em]">
           3 key differences that make BrandNav the world's ultimate eCommerce  leads database
