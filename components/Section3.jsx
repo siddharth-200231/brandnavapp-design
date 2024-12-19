@@ -7,7 +7,7 @@ const Section3 = () => {
         <div className='font-poppins font-medium tracking-wide text-customGray2 mb-4 sm:mb-6 text-center text-sm sm:text-base'>
           Modern companies are using BrandNav
         </div>
-        <div className='grid grid-cols-2 sm:grid-cols-3 md:flex md:flex-row justify-center items-center gap-6 sm:gap-8 md:gap-12'>
+        <div className='grid grid-cols-2 sm:grid-cols-3 md:flex md:flex-row justify-center items-center place-items-center gap-6 sm:gap-8 md:gap-12'>
           <img src="./sentry.png" alt="Sentry Ecom" className='grayscale opacity-70 w-auto h-auto max-h-8 sm:max-h-10' />
           <img src="./xlr.png" alt="XLR Media" className='grayscale opacity-70 w-auto h-auto max-h-8 sm:max-h-10' />
           <img src="./outreach.png" alt="Outreach Clerk" className='grayscale opacity-70 w-auto h-auto max-h-8 sm:max-h-10' />
