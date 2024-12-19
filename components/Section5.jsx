@@ -2,7 +2,7 @@ import React from 'react'
 
 const Section5 = () => {
   return (
-    <div className='flex flex-col items-center gap-3 pb-3'>
+    <div className='flex flex-col items-center gap-3 pb-10 '>
       <button className="w-auto bg-customBlue text-customWhite rounded-lg shadow-[0_4px_4px_rgba(0,0,0,0.25)]">
         <h1 className='py-2 px-6 text-lg'>
           Grab free leads
