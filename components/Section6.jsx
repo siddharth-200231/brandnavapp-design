@@ -2,7 +2,7 @@ import React from 'react'
 
 const Section6 = () => {
   return (
-    <div className='flex justify-start items-center gap-4 bg-white shadow-[0px_3px_15px_1px_rgba(54,43,43,0.15)] max-w-[94%] px-4 mx-auto rounded-[15px] py-3'>
+    <div className='flex justify-around items-center  bg-white shadow-[0px_3px_15px_1px_rgba(54,43,43,0.15)] gap-2 max-w-[94%] px-4 mx-auto rounded-[15px] py-3'>
       <div>
         <img 
           src="/ppf.jpg" 
@@ -12,7 +12,7 @@ const Section6 = () => {
       </div>
       
       <div className='flex flex-col gap-[2px]'>
-        <p className='text-[14px] font-semibold leading-[20px] max-[700px]:leading-[14px] text-[#2F327D]'>
+        <p className='text-[14px] font-semibold leading-[20px] max-[700px]:leading-[16px] text-[#2F327D]'>
           Highly recommended if you're looking to get Ecom leads!
         </p>
         <p className='text-[11px] font-normal leading-[12px] text-[#696984]'>
