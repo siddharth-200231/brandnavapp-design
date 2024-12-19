@@ -6,7 +6,7 @@ const Section2 = () => {
       <img 
         src='section2.png' 
         alt='section2' 
-        className='w-fit h-fit object-contain select-none rendering-crisp-edges drop-shadow-[0_6px_30px_rgba(24,0,118,0.24)]'
+        className='w-fit h-fit object-contain select-none rendering-crisp-edges drop-shadow-[0_4px_4px_rgba(0,0,0,0.25)]'
       />
     </div>
   )
