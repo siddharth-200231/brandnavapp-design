@@ -2,12 +2,12 @@ import React from 'react'
 
 const Section6 = () => {
   return (
-    <div className='flex justify-start items-center gap-4 bg-white shadow-[0px_3px_15px_1px_rgba(54,43,43,0.15)] max-w-[80%] px-4 mx-auto rounded-[15px] py-3'>
+    <div className='flex justify-start items-center gap-4 bg-white shadow-[0px_3px_15px_1px_rgba(54,43,43,0.15)] max-w-[94%] px-4 mx-auto rounded-[15px] py-3'>
       <div>
         <img 
           src="/ppf.jpg" 
           alt="" 
-          className='rounded-full w-[5.5rem]'
+          className='rounded-full w-[5.5rem] max-[700px]:w-[14rem] '
         />
       </div>
       
