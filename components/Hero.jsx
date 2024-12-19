@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="flex flex-col justify-center  items-center gap-5 md:gap-7 py-8 md:py-10 bg-customBlue5 px-4 md:px-0 mb-3">
+    <div className="flex flex-col justify-center  items-center gap-5 md:gap-7 py-8 md:py-10 bg-customBlue5 px-4 md:px-0 mb-2">
       <div>
         <h1 className="text-lg md:text-xl text-customBlue leading-6 font-medium font-poppins text-center">
           Find fast-growing brands, not low quality stores

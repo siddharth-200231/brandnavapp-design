@@ -2,7 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  background-color: #F8FCFF;
+}
 
-body{
+body {
   font-family: 'Poppins', sans-serif;
+  background-color: #F8FCFF;
 }
