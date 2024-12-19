@@ -10,6 +10,7 @@ const Section6 = () => {
           className='rounded-full w-[5.5rem]'
         />
       </div>
+      
       <div className='flex flex-col gap-[2px]'>
         <p className='text-[14px] font-semibold leading-tight text-[#2F327D]'>
           Highly recommended if you're looking to get Ecom leads!
