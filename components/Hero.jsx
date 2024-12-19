@@ -15,7 +15,11 @@ const Hero = () => {
           <br />
           <span className="text-customBlue">10X Better</span> in Every Way
         </h1>
-        <div className="absolute left-0 bottom-[2.8rem] md:bottom-[3.2rem] w-[280px] md:w-[440px] h-[10px] bg-yellow-300 -z-10"></div>
+        <img 
+          src="yellowStroke.png" 
+          alt="" 
+          className="absolute left-[0.5rem] md:left-[1rem] bottom-[4.2rem] md:bottom-[4.2rem] w-[160px] md:w-[280px]"
+        />
       </div>
 
       <div className="max-w-2xl px-4 md:px-0">
