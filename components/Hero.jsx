@@ -22,8 +22,8 @@ const Hero = () => {
         />
       </div>
 
-      <div className="max-w-2xl px-4 md:px-0">
-        <h1 className="text-lg md:text-xl text-customBlue3 font-poppins text-center leading-7">
+      <div className=" px-4 md:px-0">
+        <h1 className="text-lg md:text-xl text-customBlue3 font-poppins text-center lg:text-nowrap leading-7">
           Discover untapped eCommerce brands with our high-quality unsaturated leads database
         </h1>
       </div>
