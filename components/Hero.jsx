@@ -10,7 +10,7 @@ const Hero = () => {
       </div>
 
       <div className="relative">
-        <h1 className="leading-[1.2] font-bold text-customBlue2 text-2xl md:text-5xl font-poppins text-center">
+        <h1 className="leading-[1.2] font-bold text-customBlue2 text-3xl md:text-5xl font-poppins text-center">
           A Store Leads Alternative,
           <br />
           <span className="text-customBlue">10X Better</span> in Every Way
