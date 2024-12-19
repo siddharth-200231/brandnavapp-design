@@ -6,7 +6,7 @@ import Section3 from '../components/Section3'
 import Section4 from '../components/Section4'
 function page() {
   return (
-    <div className='bg-customBlue5 h-screen flex flex-col'>
+    <div className='bg-customBlue5 h-screen flex flex-col '>
       <Header />
       <Hero />
       <Section2 />
