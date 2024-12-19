@@ -7,15 +7,15 @@ const Section6 = () => {
         <img 
           src="/ppf.jpg" 
           alt="" 
-          className='rounded-full w-[5.5rem] max-[700px]:w-[14rem] '
+          className='rounded-full w-[5.5rem] max-[700px]:w-[15rem] '
         />
       </div>
       
       <div className='flex flex-col gap-[2px]'>
-        <p className='text-[14px] font-semibold leading-tight text-[#2F327D]'>
+        <p className='text-[14px] font-semibold leading-[20px] max-[700px]:leading-[14px] text-[#2F327D]'>
           Highly recommended if you're looking to get Ecom leads!
         </p>
-        <p className='text-[11px] font-normal leading-[14px] text-[#696984]'>
+        <p className='text-[11px] font-normal leading-[12px] text-[#696984]'>
           "Helps me scrape my target audience data with ease... Low effort, amazing results. Saves a lot of time and manual work"
         </p>
         <p className='text-[11px] font-medium text-[#2F327D]'>
