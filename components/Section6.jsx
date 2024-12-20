@@ -2,7 +2,7 @@ import React from 'react'
 
 const Section6 = () => {
   return (
-    <div className='flex justify-around items-center  bg-white shadow-[0px_3px_15px_1px_rgba(54,43,43,0.15)] gap-2 max-w-[93%] px-1 mx-auto rounded-[15px] py-3'>
+    <div className='flex justify-around items-center  bg-white shadow-[0px_3px_15px_1px_rgba(54,43,43,0.15)] gap-2 max-w-[93%] px-1 mx-auto rounded-[10px] py-3 mb-10'>
       <div>
         <img 
           src="/ppf.jpg" 
