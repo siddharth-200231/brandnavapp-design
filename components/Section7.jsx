@@ -4,7 +4,7 @@ const Section7 = () => {
   return (
     <div className='bg-gradient-to-r from-[#240036] to-[#003252] max-w-[95%] mx-auto py-5 px-16 max-[700px]:px-5 rounded-[8px] shadow-[0px_4px_4px_rgba(0,0,0,0.25)]'>
       <div className=' flex flex-col items-center justify-center gap-3 text-center  w-full'>
-        <p className='text-[38px] leading-[60px] md:text-[42px] md:leading-[60px] 
+        <p className='text-[38px] leading-[60px] md:text-[42px] md:leading-[48px] 
           max-[700px]:text-[32px] max-[700px]:leading-[40px] 
           max-[500px]:text-[28px] max-[500px]:leading-[34px] 
           font-semibold text-white'>
@@ -16,7 +16,7 @@ const Section7 = () => {
           font-light text-gray-300 mb-3'>
           Join the thousands of business that made the switch to BrandNav!
         </p>
-        <div className="flex flex-col sm:flex-row justify-center items-center gap-3  mb-4">
+        <div className="flex flex-col sm:flex-row justify-center items-center gap-3  mb-1">
           <input
             type="email"
             placeholder="Enter your email"
