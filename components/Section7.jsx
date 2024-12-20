@@ -2,9 +2,9 @@ import React from 'react'
 
 const Section7 = () => {
   return (
-    <div className='bg-gradient-to-r from-[#240036] to-[#003252] max-w-[95%] mx-auto py-5 px-16 max-[700px]:px-5 rounded-[8px]'>
+    <div className='bg-gradient-to-r from-[#240036] to-[#003252] max-w-[95%] mx-auto py-5 px-16 max-[700px]:px-5 rounded-[8px] shadow-[0px_4px_4px_rgba(0,0,0,0.25)]'>
       <div className=' flex flex-col items-center justify-center gap-3 text-center  w-full'>
-        <p className='text-[38px] leading-[46px] md:text-[42px] md:leading-[60px] 
+        <p className='text-[38px] leading-[60px] md:text-[42px] md:leading-[60px] 
           max-[700px]:text-[32px] max-[700px]:leading-[40px] 
           max-[500px]:text-[28px] max-[500px]:leading-[34px] 
           font-semibold text-white'>
